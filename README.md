@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=asjjun&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
+<img width='450px' src="https://github-readme-stats.vercel.app/api?username=asjjun&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&hide_border=true&layout=compact"/>
   
 </div>
