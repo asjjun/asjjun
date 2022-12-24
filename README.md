@@ -22,6 +22,9 @@
 <br>
 <img width='450px' src="https://github-readme-stats.vercel.app/api?username=asjjun&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&hide_border=true&hide=c%2B%2B&layout=compact"/>
+
+   
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asjjun)](https://github.com/asjjun/github-readme-stats)
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&hide_border=true&hide=c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
