@@ -32,8 +32,8 @@
    
    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun)](https://solved.ac/asjjun)
    <br>
-   <img width='450px' src="https://github-readme-stats.vercel.app/api?username=asjjun&hide_border=true&show_icons=true&count_private=true"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/>
+   <img width='450px' src="https://github-readme-stats.vercel.app/api?username=asjjun&include_all_commits=true&hide_border=true&show_icons=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/>
    
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasjjun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Hits&edge_flat=false"/>
 </div>
