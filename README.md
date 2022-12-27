@@ -35,7 +35,7 @@
    </a>
    <br>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=asjjun&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
+      <img width='450' src="https://github-readme-stats.vercel.app/api?username=asjjun&include_all_commits=true&count_private=true&hide_border=true&show_icons=true"/>
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/>    </a>
