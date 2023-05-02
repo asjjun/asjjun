@@ -3,9 +3,9 @@
    
 <!--    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasjjun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/> -->
 
-   <a href="https://solved.ac/asjjun">
-      <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun"/>
-   </a>
+   
+   <img align="right" width="340px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun"/>
+   
 
    <h3> 💻 Tech Stacks 💻 </h3>
    
