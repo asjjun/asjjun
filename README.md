@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br>
    
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/></a>
+      <img align="right" width="350px" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/></a>
    
    <br>💡 used at least once<br><br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
