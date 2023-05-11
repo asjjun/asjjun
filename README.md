@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=310&section=header&text=Welcome&desc=Sejun's%20GitHub%20Profile&descAlign=60&fontSize=80&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=310&section=header&text=Welcome&desc=Sejun's%20GitHub%20Profile&descAlign=60&fontSize=80&customColorList=4,8,9"/>
    
 <!--    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasjjun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/> -->
 
