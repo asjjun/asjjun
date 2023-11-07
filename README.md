@@ -12,7 +12,7 @@
    <h3> 💻 Tech Stacks 💻 </h3>
    
    💪 used at the main<br><br>
-   <img width='45' height='20' src="https://github.com/asjjun/asjjun/assets/29851772/7fc86b80-1773-448c-93e1-96d844143a51"/>
+   <img width='50' height='20' src="https://github.com/asjjun/asjjun/assets/29851772/7fc86b80-1773-448c-93e1-96d844143a51"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
    <br>
