@@ -4,7 +4,7 @@
 <!--    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasjjun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/> -->
 
    
-   <img align="right" width="340px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun"/>
+  <!-- <img align="right" width="340px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asjjun"/> -->
 
 
 
@@ -26,14 +26,14 @@
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
    <br>
-   <img align="right" width="340px" height="20px" src="https://github.com/asjjun/asjjun/assets/29851772/9564d53d-906c-4afc-8d1a-88332846ebfc"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=4ba6c9"/>
    <img src="https://img.shields.io/badge/TensorFlow-efefef?style=flat-square&logo=TensorFlow&logoColor=FF6F00"/>
    <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
    
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/></a>
+ <!--   <img align="right" width="340px" height="20px" src="https://github.com/asjjun/asjjun/assets/29851772/9564d53d-906c-4afc-8d1a-88332846ebfc"/> -->
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjjun&count_private=true&hide_border=true&hide=c%2B%2B&langs_count=8&layout=compact"/></a> -->
    
    <br>💡 used at least once<br><br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
